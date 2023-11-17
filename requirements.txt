@@ -7,4 +7,3 @@ uuid
 datetime
 requests
 pydrive
-pandas_profiling

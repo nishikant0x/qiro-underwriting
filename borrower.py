@@ -1520,7 +1520,7 @@ def app():
         """
 
         # Sample JSON data
-        f1=open('\borrower_data\borrower_details.json')
+        f1=open('\\borrower_data\borrower_details.json')
         sample_data= json.load(f1)
 
         # # Apply custom CSS styles

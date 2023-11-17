@@ -1521,7 +1521,7 @@ def app():
 
         # Sample JSON data
         file_path = os.path.join('borrower_data','borrower_details.json')
-        f1=open(file_path,r)
+        f1=open(file_path,'r')
         sample_data= json.load(f1)
 
         # # Apply custom CSS styles

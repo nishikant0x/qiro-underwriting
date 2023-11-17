@@ -331,7 +331,8 @@ def app():
             import json
 
             # json_file = st.file_uploader("Choose a borrower json file", type=["json"])
-            f=open('borrower_details.json')
+            file_path = os.path.join('borrower_data','borrower_details.json')
+            f=open(file_path,'r')
             json_data = json.load(f)
       
 

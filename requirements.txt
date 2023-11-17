@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+sqlite3
+json
+plotly
+csv
+os
+uuid
+subprocess
+io
+datetime
+requests
+pydrive
+pandas_profiling

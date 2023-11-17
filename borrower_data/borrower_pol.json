@@ -1,0 +1,63 @@
+{
+    "Entity Focus and Business Separation": {
+        "Lending Business Focus": true,
+        "Separate Lending and Non-lending Businesses": true
+    },
+    "Borrower Eligibility": {
+        "Adhere to Local Lending Laws": true,
+        "Track Record Years": 5,
+        "Institutional Investment": true,
+        "Series A Raised": true
+    },
+    "Promoter and CXO Evaluation": {
+        "Promoter's Expertise": true,
+        "CXO's Relevant Work Experience": true,
+        "Additional Due Diligence for CEO Relatives": false
+    },
+    "Board of Directors": {
+        "Presence of Board or Independent/Nominee Directors": true,
+        "Independent Directors Experience": true,
+        "Independent/Nominee Directors from Major Institutional Investors": true
+    },
+    "Capital Adequacy": {
+        "Equity Base (USD)": 2000000,
+        "Net Worth (USD)": 1000000,
+        "Capital Adequacy Ratio": 20.0
+    },
+    "Leverage": {
+        "Debt-to-Equity (D/E) Ratio for Personal Loans": 2.5,
+        "Debt-to-Equity (D/E) Ratio for Secured Loans": 5.0,
+        "Debt-to-Equity (D/E) Ratio for Housing, Loan against Property, and Microfinance": 5.0
+    },
+    "Portfolio Quality": {
+        "Portfolio at Risk (PAR) for Unsecured Loans": 0.08,
+        "Portfolio at Risk (PAR) for Microfinance": 0.05,
+        "Portfolio at Risk (PAR) for Secured Loans": 0.03,
+        "Provisions for NPAs (Unsecured Loans)": 1.0
+    },
+    "Profitability": {
+        "Return on Assets (ROA) for the Past Three Years": 2.0,
+        "Return on Equity (ROE)": 20
+    },
+    "Liquidity": {
+        "Liquidity Policy": true,
+        "Operational Expenses Liquidity": true,
+        "Debt Repayment Obligations Liquidity": true,
+        "Liquid Short-term Mutual Funds": true,
+        "Obligations from Guarantees": true
+    },
+    "Asset Liability Management (ALM)": {
+        "Positive Mismatch": true
+    },
+    "Resource Profile": {
+        "Diversified Lender Base": true,
+        "Non-Bank Lenders Represent 40% of Borrowings": true
+    },
+    "Operational Performance": {
+        "Current Collection Efficiency for Personal Loans (%)": 85,
+        "Current Collection Efficiency for Other Asset Classes (%)": 90,
+        "Total Collection Efficiency (Past 12 Months Average)": 90,
+        "Growth in AUM (Average for the Last 3 Years or Last 6 Quarters)": 30,
+        "Restructuring of Loans (Occasional Use)": false
+    }
+}

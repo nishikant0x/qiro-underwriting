@@ -17,7 +17,6 @@ import subprocess
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 import plotly.graph_objects as go
-from pandas_profiling import ProfileReport
 import sweetviz as sv
 
 
